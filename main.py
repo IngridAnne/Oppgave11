@@ -6,3 +6,4 @@ Created on Tue Sep  8 17:04:18 2026
 @author: ingridanneomtveitlundem
 """
 
+print("tester enda en gang")
